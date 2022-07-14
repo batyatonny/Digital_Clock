@@ -16,8 +16,9 @@ body {
 @media screen and (max-width: 670px) {
   .container {
     font-size: 35px;
-    width: 400px;
-    margin: 200px;
+    width: 200px;
+    margin: 100px;
+    align-items: center;
     color: teal;
     border: 2px solid teal;
     border-radius: 20px;
