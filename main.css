@@ -4,22 +4,21 @@ body {
 }
 
 .container {
-    font-size: 175px;
     width: 100%;
+     margin: 20px;
+}
+
+.box {
+    font-size: 175px;
     margin: 200px;
     color: teal;
-    border: 2px solid teal;
-    border-radius: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
  
-@media screen and (max-width: 900px) {
-  .container {
-    font-size: 55px;
-    padding: 10px;
-    width: 250px;
-   
+@media screen and (max-width: 678px) {
+   .box {
+    font-size: 75px;
    }
 }
