@@ -17,10 +17,5 @@ body {
   .container {
     font-size: 35px;
     width: 200px;
-    margin: 100px;
-    align-items: center;
-    color: teal;
-    border: 2px solid teal;
-    border-radius: 20px;
    }
 }
