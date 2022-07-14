@@ -1,6 +1,5 @@
 body {
     background-color: #012;
-    color: red;
     text-align: center;
 }
 
@@ -16,7 +15,8 @@ body {
 @media screen and (max-width: 670px) {
   .container {
     font-size: 55px;
-    width: 250px;
     padding: 10px;
+    display: flex;
+
    }
 }
