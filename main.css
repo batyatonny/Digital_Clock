@@ -15,7 +15,8 @@ body {
  
 @media screen and (max-width: 670px) {
   .container {
-    font-size: 35px;
-    width: 200px;
+    font-size: 55px;
+    width: 250px;
+    padding: 10px;
    }
 }
