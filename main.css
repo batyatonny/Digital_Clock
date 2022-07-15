@@ -11,6 +11,8 @@ body {
 .box {
     font-size: 175px;
     margin: 200px;
+    border: 2px solid teal;
+    border-radius: 20px;
     color: teal;
     display: flex;
     justify-content: center;
@@ -20,5 +22,6 @@ body {
 @media screen and (max-width: 678px) {
    .box {
     font-size: 75px;
+    border: none;
    }
 }
